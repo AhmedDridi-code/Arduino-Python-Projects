@@ -9,5 +9,7 @@ https://www.arduino.cc/en/Main/Software
 https://www.python.org/downloads/
 
 the commands to install the Python packages for this project (you just need to run this comands on terminal) :
+
 pip install pyserial
+
 pip install vpython
